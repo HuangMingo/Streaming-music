@@ -82,10 +82,6 @@
     .sidebar__logo-link {
         width: 70px;
     }
-    .sidebar__item-link span,
-    .sidebar__logo-img {
-        display: none;
-    }
 
     .sidebar__logo-img {
         margin-left: 23px;
